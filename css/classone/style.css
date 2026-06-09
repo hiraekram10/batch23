@@ -1,0 +1,76 @@
+/*  element /type selector
+ li,h3 {
+    color: blueviolet;
+} */
+
+
+/* universal selector */
+/* *{
+  color: aqua;  
+} */
+
+/* li{
+    color: green;
+} */
+
+
+/* id selector */
+/* #last {
+    color: chocolate;
+} */
+
+
+/* class selector */
+/* .change-theme{
+    color: purple;
+} */
+
+/* child selector */
+/* .card > h3{
+    color: red;
+} */
+
+
+
+/* .text > a{
+    color: red;
+} not possible */  
+
+
+
+
+/* .card i {
+    color: gray;
+} */
+/* adjacent sibling */
+/* u+i{
+    color: palevioletred;
+} */
+/* general sibliing */
+/* h1~i{
+    color: blue;
+} */
+
+
+
+
+/* #one{
+    color: aqua;
+} */
+
+/* .two{
+    color: brown;
+}
+h1{
+    color: bisque !important;
+} */
+
+
+/* div{
+   color: red;
+}
+
+p{
+    color: inherit;
+} */
+
